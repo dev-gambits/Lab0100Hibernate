@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Lab0100HibernateApplication {
+public class Laboratory01Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Lab0100HibernateApplication.class, args);
+		SpringApplication.run(Laboratory01Application.class, args);
 	}
 
 }
