@@ -42,9 +42,14 @@
 
 ### Biblio
 + [Enum Mappings with Hibernate – The Complete Guide](https://thorben-janssen.com/hibernate-enum-mappings/)
-+ []()
-+ []()
-+ []()
++ [Persisting Enums in JPA](https://www.baeldung.com/jpa-persisting-enums-in-jpa#:~:text=%5D%20%2D%20%5B2%5D-,With%20%40Enumerated(EnumType.,to%20the%20%40Enumerated(EnumType.)
++ [Hibernate Enum Type Mapping Example](https://www.codejava.net/frameworks/hibernate/hibernate-enum-type-mapping-example)
++ [hypersistence-utils](https://github.com/vladmihalcea/hypersistence-utils)
++ [Query: Postgres + Domain + ColumnDefinition.](https://github.com/vladmihalcea/hypersistence-utils/issues/326)
++ [how to map enum values into different columns in hibernate](https://coderanch.com/t/643401/databases/map-enum-values-columns-hibernate)
++ [Class EnumType](https://docs.jboss.org/hibernate/orm/4.1/javadocs/org/hibernate/type/EnumType.html)
++ [JPA and Enums via @Enumerated](https://tomee.apache.org/examples-trunk/jpa-enumerated/README.html)
++ [Mapeo de enumeraciones con @Enumerated](https://www.oscarblancarteblog.com/2016/11/14/mapeo-enumeraciones-enumerated/)
 + []()
 + []()
 + []()
