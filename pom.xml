@@ -17,6 +17,15 @@
 
 	<modules>
 		<module>laboratory01</module>
+		<module>laboratory02</module>
+		<module>laboratory03</module>
+		<module>laboratory04</module>
+		<module>laboratory05</module>
+		<module>laboratory06</module>
+		<module>laboratory07</module>
+		<module>laboratory08</module>
+		<module>laboratory09</module>
+		<module>laboratory10</module>
 	</modules>
 
 	<properties>

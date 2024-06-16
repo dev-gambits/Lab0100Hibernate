@@ -1,6 +1,4 @@
 # BASH SCRIPTING TEMPLATES
-## Se crea este archivo para agilizar el desarrollo de software
-
 ```bash
 git add .
 git commit -m "Add Laboratory Nº 1"
@@ -11,7 +9,7 @@ git status
 ```
 ```bash
 git add .
-git commit -m "Initial commit, add package"
+git commit -m "Initial first project Laboratory 01"
 ```
 ```bash
 git add .
